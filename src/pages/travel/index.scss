@@ -1,0 +1,31 @@
+.travelText {
+  text-align: center;
+  .travel-p {
+    font-size: 14px;
+    color: #777;
+    padding-top: 10px;
+    line-height: 1.625rem;
+    font-weight: 300;
+  }
+  .travel-h3 {
+    font-size: 36px;
+    font-weight: 700;
+  }
+}
+
+.card {
+  width: 540px;
+  display: flex;
+  .card-left {
+    width: 195px;
+    background-image: url("https://preview.colorlib.com/theme/blogger/img/t1.jpg.webp");
+    background-repeat: no-repeat;
+    .travel-p2 {
+      font-size: 24px;
+      font-weight: 700;
+      background-color: black;
+      color: white;
+      padding: 18px 24px;
+    }
+  }
+}
