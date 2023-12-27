@@ -13,9 +13,8 @@ const Travel = () => {
       </div>
       <div className="card">
         <div className="card-left">
-          <p className="travel-p2">
-            20 <br /> Dec
-          </p>
+          <p className="travel-p2">20</p>
+          <p className="travel-p4">Dec</p>
         </div>
         <div className="card-right">
           <h4 className="travel-h4">
